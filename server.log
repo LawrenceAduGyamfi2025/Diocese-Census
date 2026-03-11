@@ -5,3 +5,13 @@ INFO:     Started server process [15278]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     127.0.0.1:44208 - "POST /token HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42956 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42956 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15278]
+INFO:     Started server process [15544]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
