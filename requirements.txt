@@ -10,3 +10,4 @@ pandas
 alembic
 pytest
 httpx
+python-multipart

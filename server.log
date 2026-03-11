@@ -1,0 +1,7 @@
+INFO:     Will watch for changes in these directories: ['/home/ubuntuplag/Projects/diocese-census-gh']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [15271] using StatReload
+INFO:     Started server process [15278]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:44208 - "POST /token HTTP/1.1" 200 OK
